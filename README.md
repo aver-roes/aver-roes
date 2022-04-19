@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali(AKA Eddie)</h1>
 <h3 align="center">A passionate software engineer</h3>
+<div style="flex">
 <img src=https://github.com/Alihassoon93/Alihassoon93/blob/main/wallpaperflare.com_wallpaper%20(1).jpg width=1400 height=600 />
 
 - 🌱 I’m currently learning **Deep Learning, Reactjs, Golang**
@@ -9,6 +10,7 @@
 - 💬 Ask me about **Python, Machine Learning, Data Science, Data Structures and Algorithms**
 
 - 📫 How to reach me **dmatthew.1993@gmail.com**
+ </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
