@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ali(AKA Eddie)</h1>
 <h3 align="center">A passionate software engineer</h3>
-<img src=https://github.com/Alihassoon93/Alihassoon93/blob/main/wallpaperflare.com_wallpaper%20(1).jpg width=1400 height=600 />
+<img align="right" src=https://github.com/Alihassoon93/Alihassoon93/blob/main/wallpaperflare.com_wallpaper%20(1).jpg width=600 height=350 />
 
 - 🌱 I’m currently learning **Deep Learning, Reactjs, Golang**
 
-- 👨‍💻 All of my projects are available at [My Github Repo](My Github Repo)
+- 👨‍💻 All of my projects are available at [My Github Repo](https://github.com/Alihassoon93)
 
 - 💬 Ask me about **Python, Machine Learning, Data Science, Data Structures and Algorithms**
 
