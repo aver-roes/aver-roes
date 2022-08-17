@@ -6,7 +6,7 @@
 <img align="right" src="https://github.com/Alihassoon93/Alihassoon93/blob/main/181208_AI_thinking_about_its_own_replaceability.gif" width="600" height="350"/>
 
 - 🔭 I enjoy working with **Machine Learning and Backends**
-- 
+
 - 👨‍💻 All of my projects are available at [My Github Repo](https://github.com/Alihassoon93)
 
 - 💬 Ask me about **Python, Machine Learning, Data Science, Data Structures and Algorithms**
