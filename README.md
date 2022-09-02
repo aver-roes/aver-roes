@@ -5,7 +5,7 @@
 <h3 align="center">A passionate software engineer</h3>
 <img align="right" src="https://github.com/Alihassoon93/Alihassoon93/blob/main/181208_AI_thinking_about_its_own_replaceability.gif" width="600" height="350"/>
 
-- 🔭 I enjoy working with **Machine Learning and Backends**
+- 🔭 I enjoy **Solving Problems**
 
 - 👨‍💻 All of my projects are available at [My Github Repo](https://github.com/Alihassoon93)
 
