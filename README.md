@@ -7,7 +7,7 @@
 
 - 🔭 I enjoy **Solving Problems**
 
-- 👨‍💻 All of my projects are available at [My Github Repo](https://github.com/Alihassoon93)
+- 👨‍💻 All of my projects are available at [aver-roes.com](https://www.aver-roes.com/)
 
 - 💬 Ask me about **Python, Machine Learning, Data Science, Data Structures and Algorithms**
 
